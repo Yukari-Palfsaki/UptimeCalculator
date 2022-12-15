@@ -1,0 +1,2 @@
+# UptimeCalculator
+Calculation for uptime.
